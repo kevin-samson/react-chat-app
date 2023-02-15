@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React chat app
+A web applcation made using react with firebase as server-side. The Firestore Databse lets me build rich, collaborative applications by allowing secure access to the database directly from client-side code. This website is also hosted on Firebase Hosting . 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
